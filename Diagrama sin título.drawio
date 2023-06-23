@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-23T14:17:59.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="I0Rf5LMFVRa1ck6YJ0g5" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-23T14:25:19.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-bdui48EsTL3lwKdZ8Lh" version="21.5.0" type="github">
   <diagram name="Página-1" id="cyzkMBp20CYqCV3QAqMq">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="JGWcptgXxCTzTC1xXDNs-19" value="emplear" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="379" y="135" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JGWcptgXxCTzTC1xXDNs-22" value="Item" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="100" width="40" height="30" as="geometry" />
+        <mxCell id="JGWcptgXxCTzTC1xXDNs-22" value="N:1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JGWcptgXxCTzTC1xXDNs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JGWcptgXxCTzTC1xXDNs-24" target="JGWcptgXxCTzTC1xXDNs-45">
           <mxGeometry relative="1" as="geometry" />
@@ -132,8 +132,14 @@
         <mxCell id="JGWcptgXxCTzTC1xXDNs-39" value="titulo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JGWcptgXxCTzTC1xXDNs-45" value="publicar" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="JGWcptgXxCTzTC1xXDNs-45" value="esctibir" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="410" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JGWcptgXxCTzTC1xXDNs-48" value="N:M" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JGWcptgXxCTzTC1xXDNs-49" value="Base de Datos, sema 1, Diseño Relacional, Sofis Veronica Miranda Brito , 23/06/23, folio: 14716RF030" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="580" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
